@@ -1,0 +1,15 @@
+D:\DotNet\CaoNguyenLanAnh\bin\Debug\net8.0\CaoNguyenLanAnh.exe
+D:\DotNet\CaoNguyenLanAnh\bin\Debug\net8.0\CaoNguyenLanAnh.deps.json
+D:\DotNet\CaoNguyenLanAnh\bin\Debug\net8.0\CaoNguyenLanAnh.runtimeconfig.json
+D:\DotNet\CaoNguyenLanAnh\bin\Debug\net8.0\CaoNguyenLanAnh.dll
+D:\DotNet\CaoNguyenLanAnh\bin\Debug\net8.0\CaoNguyenLanAnh.pdb
+D:\DotNet\CaoNguyenLanAnh\obj\Debug\net8.0\CaoNguyenLanAnh.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\CaoNguyenLanAnh\obj\Debug\net8.0\CaoNguyenLanAnh.AssemblyInfoInputs.cache
+D:\DotNet\CaoNguyenLanAnh\obj\Debug\net8.0\CaoNguyenLanAnh.AssemblyInfo.cs
+D:\DotNet\CaoNguyenLanAnh\obj\Debug\net8.0\CaoNguyenLanAnh.csproj.CoreCompileInputs.cache
+D:\DotNet\CaoNguyenLanAnh\obj\Debug\net8.0\CaoNguyenLanAnh.sourcelink.json
+D:\DotNet\CaoNguyenLanAnh\obj\Debug\net8.0\CaoNguyenLanAnh.dll
+D:\DotNet\CaoNguyenLanAnh\obj\Debug\net8.0\refint\CaoNguyenLanAnh.dll
+D:\DotNet\CaoNguyenLanAnh\obj\Debug\net8.0\CaoNguyenLanAnh.pdb
+D:\DotNet\CaoNguyenLanAnh\obj\Debug\net8.0\CaoNguyenLanAnh.genruntimeconfig.cache
+D:\DotNet\CaoNguyenLanAnh\obj\Debug\net8.0\ref\CaoNguyenLanAnh.dll
